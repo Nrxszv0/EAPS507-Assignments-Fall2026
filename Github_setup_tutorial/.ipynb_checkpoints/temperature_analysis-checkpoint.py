@@ -13,3 +13,6 @@ plt.ylabel("Temperature (°C)")
 plt.title("Daily Temperature Variation")
 plt.grid(True)
 plt.show()
+
+print("Maximum:", np.max(temperature))
+print("Minimum:", np.min(temperature))
