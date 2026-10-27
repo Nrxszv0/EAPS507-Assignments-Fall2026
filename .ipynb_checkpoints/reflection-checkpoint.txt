@@ -1,0 +1,8 @@
+1. Why is a Git commit different from a GitHub push?
+A Git commit is updating your local git history while a GitHub push is pushing your most recent committed local code to the remote branch. 
+2. How can version history improve scientific reproducibility?
+Version history allows you to easily go through changes in the project history and revert to previous versions. It allows you to switch to stable, working versions if the main branch is broken. 
+3. Name one type of file or information that should not be uploaded to GitHub, and explain why.
+You should not push passwords, api keys/tokens, or database passwords because if your GitHub repository is public, anyone can access that information and delete/steal your private information/data. 
+4. Describe one way GitHub could help you manage or improve your final project.
+GitHub will help me keep track of my project changes and allow me to work on different features simultaneously through different branches. It will also help me revert to previous versions if the current feature I'm working on isn't working.
